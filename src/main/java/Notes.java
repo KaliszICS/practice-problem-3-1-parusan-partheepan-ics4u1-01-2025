@@ -11,6 +11,7 @@ class Notes {
 	      return 0;
 	    }
 	
+
 	    if (num == 1) {
 	      return 1;
 	    }
